@@ -6,8 +6,8 @@ Starts a votekick against the tagged target.
 
 ### Usage
 
-`/vk @target`
+`/vk <@target>`
 
-`/vkick @target`
+`/vkick <@target>`
 
-`/votekick @target`
+`/votekick <@target>`
