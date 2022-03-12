@@ -1,2 +1,3 @@
-  - commands
-    - [vk](/commands/vk.md)
+  - Commands
+    - [Votekick](/Commands/Votekick.md)
+  - [Features](/Features.md)
