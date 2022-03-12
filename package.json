@@ -1,0 +1,15 @@
+{
+    "name": "docs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sidebar": "docsify-auto-sidebar -d ./docs"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "docsify-tools": "^1.0.20"
+    }
+}
