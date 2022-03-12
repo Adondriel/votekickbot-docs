@@ -1,7 +1,9 @@
-# Votekick Command
+# Vote Time Setup
 
 ### Description
 
+Allows you to configure the amount of time a vote kick is active for before it fails.
+
 ### Usage
 
-`/vk`
+`/vk-set-votetime <seconds>`
