@@ -1,3 +1,18 @@
   - Commands
     - [Votekick](/Commands/Votekick.md)
+  - Configuration
+    - [Block Roles](/Configuration/Block%20Roles.md)
+    - [Block or Allow Text Channels](/Configuration/Block%20or%20Allow%20Text%20Channels.md)
+    - [Block or Allow Voice Channels](/Configuration/Block%20or%20Allow%20Voice%20Channels.md)
+    - [Config](/Configuration/Config.md)
+    - [Cooldowns](/Configuration/Cooldowns.md)
+    - [Dedicated Vote Kick Channel](/Configuration/Dedicated%20Vote%20Kick%20Channel.md)
+    - [Kick Time](/Configuration/Kick%20Time.md)
+    - [Log Channel](/Configuration/Log%20Channel.md)
+    - [Max Vote Kicks](/Configuration/Max%20Vote%20Kicks.md)
+    - [Required Percentage](/Configuration/Required%20Percentage.md)
+    - [Staff Roles](/Configuration/Staff%20Roles.md)
+    - [Vote Time](/Configuration/Vote%20Time.md)
+    - [Whitelist Roles](/Configuration/Whitelist%20Roles.md)
   - [Features](/Features.md)
+  - [template](/template.md)
