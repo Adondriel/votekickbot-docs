@@ -15,4 +15,3 @@
     - [Vote Time](/Configuration/Vote%20Time.md)
     - [Whitelist Roles](/Configuration/Whitelist%20Roles.md)
   - [Features](/Features.md)
-  - [template](/template.md)
