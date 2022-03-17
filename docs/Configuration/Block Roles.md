@@ -14,3 +14,10 @@ Adds a role to the blocked roles list.
 
 Removes a role from the blocked roles list.
 
+`/vk-apply-block-role <@user>`
+
+Applies a the blocked role from the mentioned user
+
+`/vk-unapply-block-role <@user>`
+
+Unapplies a the blocked role from the mentioned user

@@ -11,7 +11,3 @@ Additionlally, this can appply, or unapply the exisiting block role to a user.
 `/vk-add-whitelisted-role <@role>`
 
 `/vk-remove-whitelisted-role <@role>`
-
-`/vk-apply-whitelisted-role <@user>`
-
-`/vk-unapply-whitelisted-role <@user>`
