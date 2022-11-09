@@ -1,9 +1,9 @@
   - Commands
     - [Votekick](/Commands/Votekick.md)
   - Configuration
-    - [Block Roles](/Configuration/Block%20Roles.md)
     - [Block or Allow Text Channels](/Configuration/Block%20or%20Allow%20Text%20Channels.md)
     - [Block or Allow Voice Channels](/Configuration/Block%20or%20Allow%20Voice%20Channels.md)
+    - [Block Roles](/Configuration/Block%20Roles.md)
     - [Config](/Configuration/Config.md)
     - [Cooldowns](/Configuration/Cooldowns.md)
     - [Dedicated Vote Kick Channel](/Configuration/Dedicated%20Vote%20Kick%20Channel.md)
@@ -15,3 +15,5 @@
     - [Vote Time](/Configuration/Vote%20Time.md)
     - [Whitelist Roles](/Configuration/Whitelist%20Roles.md)
   - [Features](/Features.md)
+  - [Privacy](/Privacy.md)
+  - [TOS](/TOS.md)
