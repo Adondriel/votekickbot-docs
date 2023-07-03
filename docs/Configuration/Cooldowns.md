@@ -18,7 +18,7 @@ When executing the command, the server owner can toggle between two options: hig
 
 highest: If this option is selected, the bot will enforce the longest cooldown time among the user's roles. For instance, if a user has both "Role A" with a cooldown of 30 seconds and "Role B" with a cooldown of 60 seconds, the user will have to wait 60 seconds before using the vote kick command.
 
-lowest: On the other hand, selecting this option will enforce the shortest cooldown time among the user's roles. In the above example, the user would only need to wait 30 seconds as that is the shortest cooldown time among their roles.
+lowest: Selecting this option will enforce the shortest cooldown time among the user's roles. In the above example, the user would only need to wait 30 seconds as that is the shortest cooldown time among their roles.
 
 ### Usage
 
