@@ -28,6 +28,8 @@ lowest: Selecting this option will enforce the shortest cooldown time among the 
 
 `/vk-set-role-cooldown <seconds> <role>`
 
+`vk-remove-role-cooldown`
+
 `/vk-toggle-role-cooldown-conflict`
 
 
